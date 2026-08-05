@@ -1,4 +1,3 @@
-activities/cloud-concept-reflection.md
 # Cloud Concepts Reflection
 
 ## 1. Cloud Services I Use
